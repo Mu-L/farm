@@ -1,5 +1,19 @@
 # @farmfe/core
 
+## 1.3.0
+
+### Minor Changes
+
+- 58b256e2: runtime bundle
+
+### Patch Changes
+
+- 8bf8c951: chore: Modify `main_fields` priority
+- Updated dependencies [58b256e2]
+  - @farmfe/runtime@0.12.0
+  - @farmfe/runtime-plugin-hmr@3.5.2
+  - @farmfe/runtime-plugin-import-meta@0.2.0
+
 ## 1.2.0
 
 ### Minor Changes
