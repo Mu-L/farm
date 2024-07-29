@@ -1,5 +1,12 @@
 # @farmfe/core
 
+## 1.3.12
+
+### Patch Changes
+
+- 49448561: import.meta.url and require compatible esm and cjs
+- eff069c4: chore: Improve binary performance
+
 ## 1.3.11
 
 ### Patch Changes
